@@ -6,3 +6,10 @@ p {
   color: cadetblue;
   font-size: 30px;
 }
+.second {
+  color: green;
+}
+.secondp {
+  color: brown;
+  font-size: 35px;
+}
